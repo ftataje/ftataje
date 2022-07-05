@@ -1,16 +1,25 @@
-### Hi there 👋
+## Hi, I'm Felix Tataje! 👋
 
-<!--
-**ftataje/ftataje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
++ Industrial Engineer
++ Data Analyst
++ Web Developer
 
-Here are some ideas to get you started:
+<html>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>My Bio:</h2>
+<p>
+    ⚡ Quick bio:":                    "Student Programmer, & a kind of foodLover-gamer-animalLover",
+</p>
+<p>
+		🔭 I’m currently study on":        "42 program (C language) & On my own (Python, SQL, Power BI, Html, CSS, Javascript, Git)",
+</p>
+<p>
+    👯 I’m looking to collaborate on": "Web development or Data Analyst Projects",
+</p>
+<p>
+    📫 How to reach me:":              <a href="https://www.linkedin.com/in/felix-alexander-tataje-requena-283a988b/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Felix Tataje Requena's LinkedIn Profile" height="30" width="30">
+  </a>
+</p>
+    
+</html>
