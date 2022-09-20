@@ -14,7 +14,7 @@
 	🔭 I’m currently improving on:        <img src="https://img.shields.io/badge/-C%20-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"><img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"><img src="https://img.shields.io/github/downloads/ftataje/prueba-UDD/total?color=yellow&label=Power%20Bi&logo=power%20bi&logoColor=yellow&style=plastic">
 </p>
 <p>
-	👯 I’m looking to collaborate on: "Web development or Data Scientist Projects"
+	👯 I’m looking to collaborate on: "Data Analytics Projects"
 </p>
 <p>
 	📫 How to reach me:               <a href="https://www.linkedin.com/in/felix-alexander-tataje-requena-283a988b/">
