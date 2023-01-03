@@ -8,7 +8,7 @@
 
 <h2>My Bio:</h2>
 <p>
-	⚡ Quick bio:                    "Student Programmer, & a kind of foodLover-gamer-animalLover"
+	⚡ Quick bio:                    "Student Programmer, & a kind of peruvianFoodLover-gamer-animalLover"
 </p>
 <p>
 	🔭 I’m currently improving on:        <img src="https://img.shields.io/badge/-C%20-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"><img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"><img src="https://img.shields.io/github/downloads/ftataje/prueba-UDD/total?color=yellow&label=Power%20Bi&logo=power%20bi&logoColor=yellow&style=plastic">
