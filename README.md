@@ -2,7 +2,6 @@
 
 + Industrial Engineer
 + Data Analyst
-+ Web Developer
 
 <html>
 
